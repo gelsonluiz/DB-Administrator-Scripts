@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mira/!svn/ver/18493/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco
+END
+Tabelas sem indices clusterizados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Tabelas%20sem%20indices%20clusterizados.sql
+END
+Tamanho das tabelas data e index para todas os bancos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/mira/!svn/ver/16387/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Tamanho%20das%20tabelas%20data%20e%20index%20para%20todas%20os%20bancos.sql
+END
+sp_who3 - Verifica Bloqueios de um Banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/sp_who3%20-%20Verifica%20Bloqueios%20de%20um%20Banco.sql
+END
+Retorna estrutura de uma tabela.sql
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Retorna%20estrutura%20de%20uma%20tabela.sql
+END
+Funções de data e hora.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mira/!svn/ver/16547/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Fun%C3%A7%C3%B5es%20de%20data%20e%20hora.sql
+END
+Pesquisa por todas as tabelas relacionadas e descendentes de uma tabela específica.sql
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/mira/!svn/ver/16178/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20por%20todas%20as%20tabelas%20relacionadas%20e%20descendentes%20de%20uma%20tabela%20espec%C3%ADfica.sql
+END
+Lista quais objetos de banco foram alterados nos ultimos 7 dias.sql
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/mira/!svn/ver/16153/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Lista%20quais%20objetos%20de%20banco%20foram%20alterados%20nos%20ultimos%207%20dias.sql
+END
+Histórico de deadlocks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Hist%C3%B3rico%20de%20deadlocks.sql
+END
+Executa script de uma pasta no servidor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Executa%20script%20de%20uma%20pasta%20no%20servidor.sql
+END
+Exemplo de linkedServer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/mira/!svn/ver/16288/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Exemplo%20de%20linkedServer.sql
+END
+Select e Insert com Xml Automático.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Select%20e%20Insert%20com%20Xml%20Autom%C3%A1tico.sql
+END
+Utilização while.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/mira/!svn/ver/15080/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Utiliza%C3%A7%C3%A3o%20while.sql
+END
+Pesquisa uma string em todos os objetos de todos os bancos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/mira/!svn/ver/16178/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20uma%20string%20em%20todos%20os%20objetos%20de%20todos%20os%20bancos.sql
+END
+Espaço no Servidor e tamanho dos bancos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/mira/!svn/ver/16387/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Espa%C3%A7o%20no%20Servidor%20e%20tamanho%20dos%20bancos.sql
+END
+O que está rodando agora II.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/mira/!svn/ver/16185/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/O%20que%20est%C3%A1%20rodando%20agora%20II.sql
+END
+Pesquisa por um campo no BD.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mira/!svn/ver/16387/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20por%20um%20campo%20no%20BD.sql
+END
+Retorna a quantidade de registros de todas as tabelas de um banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Retorna%20a%20quantidade%20de%20registros%20de%20todas%20as%20tabelas%20de%20um%20banco%20de%20dados.sql
+END
+Utilizando o Resource Governor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mira/!svn/ver/16288/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Utilizando%20o%20Resource%20Governor.sql
+END
+O que está rodando agora.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/O%20que%20est%C3%A1%20rodando%20agora.sql
+END
+Listar todos os processos rodando do servidor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Listar%20todos%20os%20processos%20rodando%20do%20servidor.sql
+END
+Gera script de todas as views procedures e functions do banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/mira/!svn/ver/16144/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Gera%20script%20de%20todas%20as%20views%20procedures%20e%20functions%20do%20banco%20de%20dados.sql
+END
+Sugestão de criação de indices.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mira/!svn/ver/16140/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Sugest%C3%A3o%20de%20cria%C3%A7%C3%A3o%20de%20indices.sql
+END
+Lista todos os indices do banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/mira/!svn/ver/16387/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Lista%20todos%20os%20indices%20do%20banco.sql
+END
+O que está rodando agora III.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mira/!svn/ver/16185/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/O%20que%20est%C3%A1%20rodando%20agora%20III.sql
+END
+Retorna as tabelas que possuem uma determinada coluna.sql
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/mira/!svn/ver/17403/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Retorna%20as%20tabelas%20que%20possuem%20uma%20determinada%20coluna.sql
+END
+Queries com maior custo de CPU.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mira/!svn/ver/16131/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Queries%20com%20maior%20custo%20de%20CPU.sql
+END
+Data ultima execução de uma view (qualse lá).sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Data%20ultima%20execu%C3%A7%C3%A3o%20de%20uma%20view%20(qualse%20l%C3%A1).sql
+END
+Lista as versões dos aplicativos no banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/mira/!svn/ver/16165/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Lista%20as%20vers%C3%B5es%20dos%20aplicativos%20no%20banco%20de%20dados.sql
+END
+Select e Insert com Xml Manual.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Select%20e%20Insert%20com%20Xml%20Manual.sql
+END
+Identifica indices fragmentados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/mira/!svn/ver/16048/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Identifica%20indices%20fragmentados.sql
+END
+Reconstroi todos os indices de um banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/mira/!svn/ver/15706/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Reconstroi%20todos%20os%20indices%20de%20um%20banco%20de%20dados.sql
+END
+Paginação com CTE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pagina%C3%A7%C3%A3o%20com%20CTE.sql
+END
+Cria Login com While.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mira/!svn/ver/17403/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Cria%20Login%20com%20While.sql
+END
+create procedure dbo.pr_MntIndBncDdsMra.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/mira/!svn/ver/14048/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/create%20procedure%20dbo.pr_MntIndBncDdsMra.sql
+END
+Compara tabelas de bancos de dados diferentes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/mira/!svn/ver/16177/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Compara%20tabelas%20de%20bancos%20de%20dados%20diferentes.sql
+END
+Remover Auditoria e Reduzir Banco de Dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/mira/!svn/ver/16288/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Remover%20Auditoria%20e%20Reduzir%20Banco%20de%20Dados.sql
+END
+Indices com mais escritas do que leituras.sql
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/mira/!svn/ver/15627/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Indices%20com%20mais%20escritas%20do%20que%20leituras.sql
+END
+Executa script em todos os bancos do Sistema Mira.sql
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/mira/!svn/ver/16163/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Executa%20script%20em%20todos%20os%20bancos%20do%20Sistema%20Mira.sql
+END
+Lista tabelas sem PK.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/mira/!svn/ver/16048/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Lista%20tabelas%20sem%20PK.sql
+END
+Set isolation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Set%20isolation.sql
+END
+Desabilitar todas as Trigguers de auditoria do banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Desabilitar%20todas%20as%20Trigguers%20de%20auditoria%20do%20banco.sql
+END
+Pesquisa por funções, procedures, triggers e views relacionadas a uma tabela.sql
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/mira/!svn/ver/16131/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20por%20fun%C3%A7%C3%B5es,%20procedures,%20triggers%20e%20views%20relacionadas%20a%20uma%20tabela.sql
+END
+funções não utilizadas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/fun%C3%A7%C3%B5es%20n%C3%A3o%20utilizadas.sql
+END
+Compara se um script está diferente em algum banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/mira/!svn/ver/16569/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Compara%20se%20um%20script%20est%C3%A1%20diferente%20em%20algum%20banco.sql
+END
+CTE WITH TB_PsaFsc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/mira/!svn/ver/14043/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/CTE%20WITH%20TB_PsaFsc.sql
+END
+Comparar duas tabelas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Comparar%20duas%20tabelas.sql
+END
+Data da última restauração do banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/mira/!svn/ver/16566/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Data%20da%20%C3%BAltima%20restaura%C3%A7%C3%A3o%20do%20banco.sql
+END
+Lista os últimos objetos alterados no banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Lista%20os%20%C3%BAltimos%20objetos%20alterados%20no%20banco%20de%20dados.sql
+END
+Calendário.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/mira/!svn/ver/17700/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Calend%C3%A1rio.sql
+END
+Pesquisa uma procedure ou função em todos os bancos utilizando sp_ForEachDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/mira/!svn/ver/16181/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20uma%20procedure%20ou%20fun%C3%A7%C3%A3o%20em%20todos%20os%20bancos%20utilizando%20sp_ForEachDB.sql
+END
+Retorna todas as colunas de uma tabela.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Retorna%20todas%20as%20colunas%20de%20uma%20tabela.sql
+END
+Verifica se já existe uma tabela temporária com o mesmo nome.sql
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Verifica%20se%20j%C3%A1%20existe%20uma%20tabela%20tempor%C3%A1ria%20com%20o%20mesmo%20nome.sql
+END
+Criando logins individualmente.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/mira/!svn/ver/16915/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Criando%20logins%20individualmente.sql
+END
+10 Scripts com mais leitura e escrita no disco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/mira/!svn/ver/16140/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/10%20Scripts%20com%20mais%20leitura%20e%20escrita%20no%20disco.sql
+END
+pr_ComparaTabelas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/pr_ComparaTabelas.sql
+END
+Como saber o nome do banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/mira/!svn/ver/16387/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Como%20saber%20o%20nome%20do%20banco.sql
+END
+Inclui os dados apartir do txt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Inclui%20os%20dados%20apartir%20do%20txt.sql
+END
+Imprimindo strings longas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Imprimindo%20strings%20longas.sql
+END
+Estatístico de utilização de indices no banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/mira/!svn/ver/15054/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Estat%C3%ADstico%20de%20utiliza%C3%A7%C3%A3o%20de%20indices%20no%20banco%20de%20dados.sql
+END
+sp_IndexAnalysis-v10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/sp_IndexAnalysis-v10.sql
+END
+Pesquisa pela ocorrência de um texto em todas tabelas do banco.sql
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/mira/!svn/ver/18493/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20pela%20ocorr%C3%AAncia%20de%20um%20texto%20em%20todas%20tabelas%20do%20banco.sql
+END
+Reconstruir indices de um banco de dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Reconstruir%20indices%20de%20um%20banco%20de%20dados.sql
+END
+Pesquisa por campos no SP_WHO.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/mira/!svn/ver/16060/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20por%20campos%20no%20SP_WHO.sql
+END
+Pesquisa por uma string em todas as colunas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/mira/!svn/ver/14047/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Pesquisa%20por%20uma%20string%20em%20todas%20as%20colunas.sql
+END
+Retorna a data da última execução de uma view.sql
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/mira/!svn/ver/16140/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Retorna%20a%20data%20da%20%C3%BAltima%20execu%C3%A7%C3%A3o%20de%20uma%20view.sql
+END
+Status dos Jobs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/mira/!svn/ver/16288/scripts%20de%20atendimentos/suporte%20a%20equipe/Administra%C3%A7%C3%A3o%20do%20banco/Status%20dos%20Jobs.sql
+END

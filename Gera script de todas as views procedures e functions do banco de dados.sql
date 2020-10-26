@@ -1,0 +1,72 @@
+SET NOCOUNT ON
+
+DECLARE @DATABASE AS VARCHAR(20)
+SET @DATABASE = DB_NAME() 
+
+DECLARE
+@DC_Txt AS VARCHAR(MAX),
+@OBJECT_ID AS INT,
+@NAME AS VarChar(500),
+@Tamanho Int,
+@Pos Int
+
+SET @Tamanho = 0
+SET @Pos = 0
+
+EXEC ('USE ' +@DATABASE)
+
+PRINT 'USE [' + @DATABASE + ']' 
+PRINT 'GO'
+
+DECLARE @SQL TABLE (ScriptSQL VarChar(max))
+
+DECLARE JOB_CURSOR CURSOR FOR
+SELECT OBJECT_ID, NAME FROM SYS.OBJECTS 
+WHERE NAME NOT LIKE '%AUDIT%'
+--AND type in ('P', 'TR', 'IF', 'FN', 'TF', 'V') 
+--AND type = 'V' -- AND NAME = 'fn_CalculaCargaHorariaInv'
+ORDER BY 2
+
+OPEN JOB_CURSOR
+
+FETCH NEXT FROM JOB_CURSOR
+INTO @OBJECT_ID, @NAME 
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+    INSERT INTO @SQL
+    SELECT
+    CHAR(13) +
+    M.DEFINITION + 
+    --CHAR(13) + 'GO' + 
+    CHAR(13) AS [ScriptSQL]
+    FROM SYS.OBJECTS O 
+    INNER JOIN SYS.SQL_MODULES M ON O.OBJECT_ID = M.OBJECT_ID 
+    INNER JOIN SYS.SCHEMAS S ON S.SCHEMA_ID = O.SCHEMA_ID
+    WHERE O.OBJECT_ID = @OBJECT_ID
+
+    SELECT @Tamanho = datalength(ScriptSQL) FROM @SQL
+    SET @Pos = 0
+    
+    WHILE @Pos <= @Tamanho
+    BEGIN
+       SELECT @DC_Txt = SUBSTRING(ScriptSQL, @POS, 8000) FROM @SQL
+       PRINT @DC_Txt
+       SET @Pos = @Pos + 8000
+    END
+
+    PRINT 'GO'
+    PRINT '-----------------------------------------------------'
+    DELETE FROM @SQL
+
+    FETCH NEXT FROM JOB_CURSOR
+    INTO @OBJECT_ID, @NAME 
+END
+
+CLOSE JOB_CURSOR
+DEALLOCATE JOB_CURSOR
+
+
+
+
+
