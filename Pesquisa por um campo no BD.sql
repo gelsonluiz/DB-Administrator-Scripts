@@ -1,8 +1,8 @@
 DECLARE
 @Campo VarChar(255)
-
-SET @Campo = '%ID_TpoEnsArqCru%'
-
+--
+SET @Campo = 'CargaHoraria'
+-- 
 -- FUNÇÕES E PROCEDURES
 SELECT 
 O.NAME
@@ -18,5 +18,3 @@ from sys.tables a
 inner join sys.columns b on a.object_id = b.object_id
 where b.name LIKE @Campo
 ORDER BY 1
-
-
