@@ -4,6 +4,7 @@ Convert(varchar(10), TB_TrmOrg.DT_TroDiaLtvTrmOrg, 103) [Data Termino],
 
 -- Retora último dia do mês
 select dateadd(day, -1, dateadd(month,1,'2014-02-01'))
+@DataFinal Date = eomonth(concat(@p_Ano,'-',@p_mes,'-01'))
 
 -- Funções de datas
 DECLARE
@@ -21,3 +22,6 @@ SELECT
 -- Primeiro e Ultimo dia do mês/ano
 set @DT_AnoIni =  CAST(CAST(@NR_AnoRfrArqCru AS VarChar(4))+'-'+ CAST(@NR_MesRfrArqCru AS VarChar(2))+'-01' AS SmallDatetime)
 set @DT_AnoFin =  DateAdd(year, 1, @DT_AnoIni) -1
+
+-- Idade
+SELECT FLOOR(DATEDIFF(DAY, DataNascimento, GETDATE()) / 365.25)
